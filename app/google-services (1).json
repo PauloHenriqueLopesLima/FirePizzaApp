@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663174616465",
+    "firebase_url": "https://firepizzaapp.firebaseio.com",
+    "project_id": "firepizzaapp",
+    "storage_bucket": "firepizzaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663174616465:android:c4a66136f7a68797",
+        "android_client_info": {
+          "package_name": "com.neomatrix.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663174616465-sqfndbpi4pjsuao3gtb1pj0k2p0oer5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjj6UL_NNRgqyiO56f50v1qzPOGcOM3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663174616465-sqfndbpi4pjsuao3gtb1pj0k2p0oer5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
